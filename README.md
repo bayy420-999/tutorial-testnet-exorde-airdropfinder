@@ -126,7 +126,7 @@ Jika anda ingin masuk ke terminal gunakan perintah
 screen -r exorde
 ```
 
-> Ganti `ALAMAT_ETH_ANDA` dengan alamat eth anda, untuk logging bisa diisi 0, 1, 2, 3, 4 detail logging akan saya jelaskan dibawah
+> Ganti `ALAMAT_ETH_ANDA` dengan alamat eth anda, untuk logging bisa diisi 0, 1, 2, 3, 4 detail logging akan saya jelaskan [dibawah](https://github.com/bayy420-999/tutorial-testnet-exorde-airdropfinder#logging)
 
 ## Pemasangan menggunakan Docker
 
@@ -219,7 +219,7 @@ Jika anda ingin masuk ke terminal gunakan perintah
 screen -r exorde
 ```
 
-> Ganti `ALAMAT_ETH_ANDA` dengan alamat eth anda, untuk logging bisa diisi 0, 1, 2, 3, 4 detail logging akan saya jelaskan dibawah
+> Ganti `ALAMAT_ETH_ANDA` dengan alamat eth anda, untuk logging bisa diisi 0, 1, 2, 3, 4 detail logging akan saya jelaskan [dibawah](https://github.com/bayy420-999/tutorial-testnet-exorde-airdropfinder#logging)
 
 
 ## Logging
