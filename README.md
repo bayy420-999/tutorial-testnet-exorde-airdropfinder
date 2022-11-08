@@ -138,7 +138,9 @@ sudo apt-get install \
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
+    lsb-release \
+    screen \
+    git
 ```
 
 ### Tambahkan kunci GPG Docker resmi
